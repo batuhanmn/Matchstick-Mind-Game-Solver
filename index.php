@@ -107,7 +107,7 @@ function DoStuff($InputText = null, $MoveCount){
 			echo  str_replace(" ", "",  $value)."<br>";
 			
 		}
-		echo count($res)." result found"." (2 move). "."<br>";
+		echo count($res)." result found"." (2 moves). "."<br>";
 	}	
 }
 
